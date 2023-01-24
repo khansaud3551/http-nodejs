@@ -32,14 +32,14 @@ app.get("/hello", (req, res) => {
   res.send({ express: "Hello From Express" });
 });
 
-app.get("/", (req, res) => {
-  res.send("Hello From Express");
-});
+// app.get("/", (req, res) => {
+//   res.send("Hello From Express");
+// });
 
 app.use("/api", api);
-// app.get("*", (req, res) => {
-//   res.sendFile(path.join(build, "index.html"));
-// });
+app.get("*", (req, res) => {
+  res.sendFile(path.join(build, "index.html"));
+});
 
 app.listen(apiPort, () => console.log(`Server running on port ${apiPort}`));
 module.exports = app;
