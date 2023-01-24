@@ -1,0 +1,145 @@
+[
+    {
+        "name" : "Slime#1",
+        "dataURL" : "legendary/unnamed.png",
+        "description" : "Slime NFT",
+        "tokenId" : 24
+    },{
+        "name" : "Legendary Mega#1",
+        "dataURL" : "legendary/mega1.jpg",
+        "description" : "Legendary Mega NFT",
+        "tokenId" : 21
+    },
+    {
+        "name" : "Legendary Mega#2",
+        "dataURL" : "legendary/mega2.jpg",
+        "description" : "Legendary Mega NFT",
+        "tokenId" : 22
+    },
+    {
+        "name" : "Legendary Mega#3",
+        "dataURL" : "legendary/mega3.jpg",
+        "description" : "Legendary Mega NFT",
+        "tokenId" : 23
+    },
+    {
+        "name" : "Legendary#1",
+        "dataURL" : "legendary/1.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 1
+    },
+    {
+        "name" : "Legendary#2",
+        "dataURL" : "legendary/2.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 2
+    },
+    {
+        "name" : "Legendary#3",
+        "dataURL" : "legendary/3.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 3
+    },
+    {
+        "name" : "Legendary#4",
+        "dataURL" : "legendary/4.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 4
+    },
+    {
+        "name" : "Legendary#5",
+        "dataURL" : "legendary/5.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 5
+    },
+    {
+        "name" : "Legendary#6",
+        "dataURL" : "legendary/6.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 6
+    },
+    {
+        "name" : "Legendary#7",
+        "dataURL" : "legendary/7.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 7
+    },
+    {
+        "name" : "Legendary#8",
+        "dataURL" : "legendary/8.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 8
+    },
+    {
+        "name" : "Legendary#9",
+        "dataURL" : "legendary/9.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 9
+    },
+    {
+        "name" : "Legendary#10",
+        "dataURL" : "legendary/10.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 10
+    },
+    {
+        "name" : "Legendary#11",
+        "dataURL" : "legendary/11.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 11
+    },
+    {
+        "name" : "Legendary#12",
+        "dataURL" : "legendary/12.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 12
+    },
+    {
+        "name" : "Legendary#13",
+        "dataURL" : "legendary/13.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 13
+    },
+    {
+        "name" : "Legendary#14",
+        "dataURL" : "legendary/14.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 14
+    },
+    {
+        "name" : "Legendary#15",
+        "dataURL" : "legendary/15.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 15
+    },
+    {
+        "name" : "Legendary#16",
+        "dataURL" : "legendary/16.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 16
+    },
+    {
+        "name" : "Legendary#17",
+        "dataURL" : "legendary/17.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 17
+    },
+    {
+        "name" : "Legendary#18",
+        "dataURL" : "legendary/18.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 18
+    },
+    {
+        "name" : "Legendary#19",
+        "dataURL" : "legendary/19.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 19
+    },
+    {
+        "name" : "Legendary#20",
+        "dataURL" : "legendary/20.jpeg",
+        "description" : "Legendary NFT",
+        "tokenId" : 20
+    }
+]
