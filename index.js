@@ -36,6 +36,8 @@ app.get("/hello", (req, res) => {
 //   res.send("Hello From Express");
 // });
 
+console.log("test");
+
 app.use("/api", api);
 app.get("*", (req, res) => {
   res.sendFile(path.join(build, "index.html"));
